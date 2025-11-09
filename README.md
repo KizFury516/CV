@@ -51,4 +51,10 @@ https://www.figma.com/design/BUGfoc1K9VR8MaD1hBc0RH/CV-template?node-id=0-1&t=93
 - **HTML5** and **CSS3**
 - **Google Fonts** for typography
 - **Responsive design** with media queries
-  
+- **GitHub Pages** for hosting
+
+---
+
+## Live Website
+
+https://kizfury516.github.io/CV/

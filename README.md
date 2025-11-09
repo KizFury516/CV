@@ -42,7 +42,7 @@ The simplicity of the design supports quick reading and navigation — essential
 
 ### Figma Design Link
 
-[Insert Figma project link here]
+https://www.figma.com/design/BUGfoc1K9VR8MaD1hBc0RH/CV-template?node-id=0-1&t=93iUlzZF0r5S0TYN-1
 
 ---
 
@@ -51,17 +51,4 @@ The simplicity of the design supports quick reading and navigation — essential
 - **HTML5** and **CSS3**
 - **Google Fonts** for typography
 - **Responsive design** with media queries
-- (Optional) **GitHub Pages** for hosting
-
----
-
-## Live Website
-
-[Insert GitHub Pages link here once deployed]
-
-Example:  
-`https://KizFury516.github.io/cv-andy/`
-
----
-
-© 2025 Andy José Cueva. All rights reserved.
+  

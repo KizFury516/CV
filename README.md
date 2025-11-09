@@ -4,13 +4,12 @@
 
 ### User Profile (User Persona)
 
-**Name:** Laura Smith  
-**Age:** 29  
-**Occupation:** IT Recruiter at a technology company  
-**Technical background:** Basic understanding of programming and web development concepts  
-**Goals:** To find and evaluate potential candidates for cybersecurity or software engineering roles  
-**Motivations:** Wants to get a quick, clear overview of the candidate’s background, education, and technical skills without unnecessary distractions.  
-**Frustrations:** Complicated websites that take too long to load or make it difficult to find essential information such as contact details or experience.  
+**Name:** Laura Fernandez
+**Age:** 42  
+**Occupation:** IT Recruiter at a technology company.
+**Technical background:** Basic understanding of programming and web development concepts.
+**Goals:** To find and evaluate potential candidates for cybersecurity or software engineering roles.
+**Motivations:** Wants to get a quick, clear overview of the candidate’s background, education, and technical skills without unnecessary distractions. 
 **Expectations:** A well-structured and professional page that reflects the candidate’s technical mindset and attention to detail.
 
 ---
